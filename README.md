@@ -3,7 +3,8 @@
 
   ## Description
    
-  A Great command line application to make it easy for business owners to keep track of all their employees. Many helpful functions makes this application incredibly useful.                                                                                                                                                                                                  Link to video:  
+  A Great command line application to make it easy for business owners to keep track of all their employees. Many helpful functions makes this application incredibly useful.                                                                                                                                                                      
+ Link to video:  https://drive.google.com/file/d/11ZCIgQvjl8qaMy5qWnsOWag2axxXvGqq/view
 
   ## Table of Contents
   *[Installation](#installation)
